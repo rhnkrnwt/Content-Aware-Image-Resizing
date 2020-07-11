@@ -1,0 +1,1 @@
+./segment_converter --input=INPUT.mp4.pb --bitmap_color=0.1 --output_dir=OUTPUT_DIR

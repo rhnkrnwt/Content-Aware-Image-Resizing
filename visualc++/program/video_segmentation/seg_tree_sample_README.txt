@@ -1,0 +1,1 @@
+./seg_tree_sample --input_file=INPUT.mp4 --run_on_server --write_to_file
